@@ -8,12 +8,6 @@ body {
 
 }
 
-hr {
-  max-width: 65px;
-  border-width: 3px;
-  border-color: #F05F44; 
-}
-
 h1 {
   font-size: 3rem; 
   color: #e2dbdb;
