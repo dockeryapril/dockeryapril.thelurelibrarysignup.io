@@ -36,8 +36,8 @@ h1 {
 
 .btn {
   font-weight: 700;
-  text-decoration-color: rgb(0, 0, 0);
   text-transform: uppercase;
+  text-decoration-color: black;
   border-radius: 300px;
 }
 
