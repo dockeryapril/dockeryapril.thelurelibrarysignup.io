@@ -8,10 +8,9 @@ body {
 }
 
 .image-container {
-  display: flex;
-  justify-content: center;
+  position: relative;
+  display: inline-block;
   align-items: center;
-  height: 100%;
 }
 
 img {
