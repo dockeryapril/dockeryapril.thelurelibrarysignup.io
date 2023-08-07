@@ -10,7 +10,7 @@ body {
 .image-container {
   position: relative;
   display: inline-block;
-  align-items: center;
+  align-content: center;
 }
 
 img {
