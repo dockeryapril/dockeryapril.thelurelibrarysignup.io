@@ -45,9 +45,9 @@ h1 {
 
 .btn-primary {
   background-color: rgba(255, 255, 255, 0.5);
-  border-color: #F05F44;
-  --bs-btn-hover-bg: #ee4b08;
-  --bs-btn-hover-border-color: #ee4b08; 
+  border-color: #000000;
+  --bs-btn-hover-bg: #ffffff;
+  --bs-btn-hover-border-color: #ffffff; 
 }
 
 .btn-primary:hover {
