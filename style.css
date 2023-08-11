@@ -51,9 +51,9 @@ h1 {
 }
 
 .btn-primary:hover {
-  background-color: #ee4b08;
-  border-color: #ee4b08;
-  cursor: pointer;
+  background-color: #ffffff;
+  border-color: #ffffff;
+  cursor: pointer; 
 }
 
 .btn-xl {
