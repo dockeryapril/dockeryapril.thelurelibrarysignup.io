@@ -22,7 +22,7 @@ img {
 }
 
 .transparent-box {
-  background-color: rgba(238, 75, 8, 0);
+  background-color: #ee4b08;
   padding: 20px;
   display: inline-block;
 }
