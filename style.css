@@ -22,7 +22,7 @@ img {
   align-items: center;
 }
 
-h1 {
+h1, h2 {
   font-size: 5rem; 
   color: #ffffff;
 }
