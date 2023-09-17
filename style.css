@@ -1,7 +1,7 @@
 html,
 body {
+  background: url(lures.jpg) no-repeat center center fixed; 
   background-size: cover;
-  background: rgba(242, 239, 239, 0) url(lures.jpg) no-repeat center center fixed; 
   height: 100%;
   width: 100%;
   font-family: 'Jost', sans-serif;
