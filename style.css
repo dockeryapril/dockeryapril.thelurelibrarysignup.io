@@ -8,12 +8,12 @@ body {
   color: #ffffff;
 }
 
-.image-container {
+/* .image-container {
   display: flex;
   justify-content: center;
   align-items: center;
   padding: 1px;
-}
+} */
 
 img {
   display: block;
@@ -53,4 +53,20 @@ h2, h1 {
 
 .btn-xl {
   padding: 1rem 2rem; 
+}
+
+.hero {
+  background: url('lures.jpg') no-repeat center center fixed;
+  background-size: cover;
+  height: 100vh;
+  position: relative;
+  color: white; /* Text color on top of the image */
+}
+
+/* Style for the hero content */
+.image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
 }
