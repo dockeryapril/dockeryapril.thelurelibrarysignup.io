@@ -21,15 +21,8 @@ img {
   align-items: center;
 }
 
-/** This is a box that goes around main text
-.transparent-box {
-  background-color: #ee4b08;
-  padding: 20px;
-  display: inline-block;
-} **/
-
 h1 {
-  font-size: 3rem; 
+  font-size: 5rem; 
   color: #ffffff;
 }
 
