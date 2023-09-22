@@ -8,31 +8,13 @@ body {
   color: #ffffff;
 }
 
-/*
-.image-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100%;
-}
-*/
-
 .hero {
   background: url('lures.jpg') no-repeat center center fixed;
   background-size: cover;
   height: 100vh;
   position: relative;
-  color: white; /* Text color on top of the image */
+  color: white;
 }
-
-/*
-img {
-  display: block;
-  max-width: 100%;
-  height: auto;
-  align-items: center;
-}
-*/
 
 h1 {
   font-size: 5rem; 
