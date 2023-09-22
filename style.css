@@ -37,8 +37,9 @@ h1 {
 }
 
 h2 {
-  font-size: 3rem
-  color: #ffffff;
+  font-size: 5rem
+  color: #ffffff
+  justify-content: center;
 }
 
 .buffer {
