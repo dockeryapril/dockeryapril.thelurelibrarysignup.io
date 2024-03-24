@@ -8,6 +8,13 @@ body {
   color: #ffffff;
 }
 
+.overlay {
+  position: relative;
+  background-color: rgba(255, 255, 255, 0.5); /* Adjust the alpha (last value) to change the opacity of the overlay */
+  padding: 20px;
+  border-radius: 10px;
+}
+
 h1 {
   font-size: 4rem; 
   color: #ffffff;
